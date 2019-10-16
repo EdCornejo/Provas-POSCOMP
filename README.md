@@ -1,4 +1,4 @@
-# Provas e gabaritos do POSCOMP
+# Provas e Gabaritos POSCOMP
 
 ## Provas disponíveis:
 * 2019
