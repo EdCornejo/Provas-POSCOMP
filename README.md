@@ -5,12 +5,6 @@
 |   Ano    |                            Arquivos                                            |
 |----------|--------------------------------------------------------------------------------|
 | 2019     | [Prova](./Provas/prova-2019.PDF) -  [Gabarito](./Gabaritos/gabarito-2019.pdf)  |
-| 2019     | [Prova](./Provas/prova-2019.PDF) -  [Gabarito](./Gabaritos/gabarito-2019.pdf)  |
-| 2019     | [Prova](./Provas/prova-2019.PDF) -  [Gabarito](./Gabaritos/gabarito-2019.pdf)  |
-| 2019     | [Prova](./Provas/prova-2019.PDF) -  [Gabarito](./Gabaritos/gabarito-2019.pdf)  |
-| 2019     | [Prova](./Provas/prova-2019.PDF) -  [Gabarito](./Gabaritos/gabarito-2019.pdf)  |
-| 2019     | [Prova](./Provas/prova-2019.PDF) -  [Gabarito](./Gabaritos/gabarito-2019.pdf)  |
-| 2019     | [Prova](./Provas/prova-2019.PDF) -  [Gabarito](./Gabaritos/gabarito-2019.pdf)  |
 | 2018     | [Prova](./Provas/prova-2018.pdf) -  [Gabarito](./Gabaritos/gabarito-2018.pdf)  |
 | 2017     | [Prova](./Provas/prova-2017.pdf) -  [Gabarito](./Gabaritos/gabarito-2017.pdf)  |
 | 2016     | [Prova](./Provas/prova-2016.pdf) -  [Gabarito](./Gabaritos/gabarito-2016.pdf)  |
